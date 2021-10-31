@@ -11,7 +11,7 @@ The functionality available on the volunteer website includes:
 
 To log into the LineHayat call and chat system as a volunteer, follow these steps:
 
-1. Navigate to [linehayat-volunteer.vercel.app](https://linehayat-volunteer.vercel.app)
+1. Navigate to [linehayat-volunteer.netlify.app](https://linehayat-volunteer.netlify.app)
 
 If you're not logged in already, you should arrive at this login screen:
 

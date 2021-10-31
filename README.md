@@ -9,7 +9,7 @@ The purpose of the LineHayat call and chat system is to provide a platform where
 The system is split into 2 websites for students and volunteers respectively and can be accessed on the following URLs:
 
 * For students: [linehayat.netlify.app](https://linehayat.netlify.app)
-* For volunteers: [linehayat-volunteer.vercel.app](https://linehayat-volunteer.vercel.app)
+* For volunteers: [linehayat-volunteer.netlify.app](https://linehayat-volunteer.netlify.app)
 
 [Student guide](student-guide.md)
 
